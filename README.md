@@ -71,5 +71,3 @@ The following figure compares the **actual data (blue)** and the **fitted curve 
 \]
 
 ---
-
-## 🔗 Desmos Submission Format
