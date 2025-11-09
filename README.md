@@ -13,6 +13,8 @@ x = (t \cos(\theta) - e^{Mt} \sin(0.3t)\sin(\theta)) + X
 y = (42 + t \sin(\theta) + e^{Mt} \sin(0.3t)\cos(\theta))
 \]
 
+**🔗 Interactive Visualization:** [View the curve on Desmos](https://www.desmos.com/calculator/d9fnhohqq3)
+
 ---
 
 ## 🧠 Methodology Explanation
@@ -70,4 +72,13 @@ The following figure compares the **actual data (blue)** and the **fitted curve 
 \quad 6<t<60
 \]
 
+**🎯 View the interactive version on Desmos:**  
+👉 [https://www.desmos.com/calculator/d9fnhohqq3](https://www.desmos.com/calculator/d9fnhohqq3)
+
 ---
+
+## 🧰 How to Run the Code
+
+### 1️⃣ Install Dependencies
+```bash
+pip install numpy pandas scipy matplotlib
